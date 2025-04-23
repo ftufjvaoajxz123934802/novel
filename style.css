@@ -72,7 +72,8 @@ nav a:hover {
 }
 
 .chapter {
-  margin-bottom: 3rem;
+  margin: 3rem;
+  padding:20px;
 }
 
 .chapter h2 {
